@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+
+    <string-array name="unit_array">
+        <item>Meters</item>
+        <item>Inches</item>
+        <item>Feet</item>
+        <item>Centimeters</item>
+        <item>Millimeters</item>
+        <item>Kilometers</item>
+        <item>Miles</item>
+        <item>Yards</item>
+        <item>Megameters</item>
+        <item>Nautical Miles</item>
+        <item>Light Years</item>
+        <!-- Add more units as needed -->
+    </string-array>
+
+    <string name="app_name_news">News API</string>
+    <string name="api_key">62a654df178e48e1a1d6b4dffe927b3e</string>
+    <!-- Add more strings as needed -->
+</resources>
